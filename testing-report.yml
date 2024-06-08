@@ -17,7 +17,7 @@
 
 - summary: |
     Проверка фильтра "Price"
-  status: fail
+  status: pass
 
 - summary: |
     Добавление товара в корзину

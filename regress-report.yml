@@ -40,6 +40,18 @@ test-cases:
       Оформление заказа
     status: pass
 
+  - summary: |
+      Очистка корзины
+    status: pass
+
+  - summary: |
+      Переключение языка
+    status: fail
+
+  - summary: |
+      Проверка нумерации страниц
+    status: fail
+
 bugreports:
   - summary: |
       Пропадают кнопки перехода постранично

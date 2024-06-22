@@ -50,3 +50,15 @@
 - summary: |
     Проверка нумерации страниц
   status: fail
+
+- summary: |
+    Проверка поля "Search" на невалидные данные
+  status: pass
+
+- summary: |
+    Проверка фильтра "Price" на невалидные данные
+  status: fail
+
+- summary: |
+    Поиск товара по нескольким фильтрам
+  status: pass
